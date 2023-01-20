@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+    color: white;
+}
+
+li:hover {
+    color: darkgoldenrod;
+}
+
+.footer {
+    background-color: rgb(2, 20, 41);
+}
